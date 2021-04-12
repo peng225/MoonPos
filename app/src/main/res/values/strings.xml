@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoonPos2</string>
+    <string name="button_text">Get moon pos</string>
+    <string name="initial_text">Put button to get moon pos.</string>
+</resources>
